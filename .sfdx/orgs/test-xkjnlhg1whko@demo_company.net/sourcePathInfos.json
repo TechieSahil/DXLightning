@@ -1,0 +1,206 @@
+[
+    [
+        "C:\\Users\\manoj.kumar\\DXLightning\\force-app",
+        {
+            "sourcePath": "C:\\Users\\manoj.kumar\\DXLightning\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504603247803,
+            "changeTime": 1504603947606,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\manoj.kumar\\DXLightning\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\manoj.kumar\\DXLightning\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504603247804,
+            "changeTime": 1504603947606,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manoj.kumar\\DXLightning\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\manoj.kumar\\DXLightning\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504607839849,
+            "changeTime": 1504607839849,
+            "contentHash": "b4afd72db6e4c5208696ba627b7991e3fd2ac754"
+        }
+    ],
+    [
+        "C:\\Users\\manoj.kumar\\DXLightning\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\manoj.kumar\\DXLightning\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504604093887,
+            "changeTime": 1504604093887,
+            "contentHash": "bb5e9a367276d9ed486a41f39ea4853de1aaf7df",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manoj.kumar\\DXLightning\\force-app\\main\\default\\aura\\quickContact",
+        {
+            "sourcePath": "C:\\Users\\manoj.kumar\\DXLightning\\force-app\\main\\default\\aura\\quickContact",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504604093918,
+            "changeTime": 1504604093918,
+            "contentHash": "6e719e5c800108fbaffbf2066f493664a2ba8f28",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manoj.kumar\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.cmp",
+        {
+            "sourcePath": "C:\\Users\\manoj.kumar\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.cmp",
+            "isDirectory": false,
+            "size": 1617,
+            "modifiedTime": 1504604264417,
+            "changeTime": 1504604264419,
+            "contentHash": "37b6b5fbcba5f74d020026cf0f93cfc6f381ac7b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manoj.kumar\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\manoj.kumar\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 244,
+            "modifiedTime": 1504604093896,
+            "changeTime": 1504604093896,
+            "contentHash": "8aa185141635929bfe1cb48799647c1eb1f1a0d9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manoj.kumar\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.css",
+        {
+            "sourcePath": "C:\\Users\\manoj.kumar\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1504604093913,
+            "changeTime": 1504604093913,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manoj.kumar\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContactController.js",
+        {
+            "sourcePath": "C:\\Users\\manoj.kumar\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContactController.js",
+            "isDirectory": false,
+            "size": 245,
+            "modifiedTime": 1504604301522,
+            "changeTime": 1504604301522,
+            "contentHash": "a87cc0780f27e1b47ad87dec4818177489337cbb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manoj.kumar\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContactHelper.js",
+        {
+            "sourcePath": "C:\\Users\\manoj.kumar\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContactHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1504604093905,
+            "changeTime": 1504604093905,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manoj.kumar\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContactRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\manoj.kumar\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContactRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1504604093918,
+            "changeTime": 1504604093918,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manoj.kumar\\DXLightning",
+        {
+            "sourcePath": "C:\\Users\\manoj.kumar\\DXLightning",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504604528360,
+            "changeTime": 1504604528360,
+            "contentHash": "c248c0fcf4242beea127470c300f425a242a92af",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\manoj.kumar\\DXLightning\\force-app\\main\\default\\flexipages\\User_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\manoj.kumar\\DXLightning\\force-app\\main\\default\\flexipages\\User_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3852,
+            "modifiedTime": 1504607839855,
+            "changeTime": 1504607839855,
+            "contentHash": "9a92be87588d411388d4ab87a54a7a69d0048910"
+        }
+    ],
+    [
+        "C:\\Users\\manoj.kumar\\DXLightning\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\manoj.kumar\\DXLightning\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504607839854,
+            "changeTime": 1504607839854,
+            "contentHash": "664d7faf727e82f482b44b12c4dc0a7a6d706e85"
+        }
+    ]
+]
